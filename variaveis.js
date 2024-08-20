@@ -36,8 +36,9 @@
 
  // string (texto)
 
- const meuNome = 'Luiz'
+ 
  const frase = 'Meu nome e:'
+ const meuNome = 'Luiz'
  const issoNaoEumNumero = '50'
 
  const minhaFrase = meuNome + frase
